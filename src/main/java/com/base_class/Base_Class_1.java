@@ -22,9 +22,10 @@ public class Base_Class_1 {
 	
 	public static WebDriver d; //--- > null
 	public static String value;
+	
 	public static WebDriver browser_configuration(String type) {  //----> Whatever is required we need to pass as a parameter
 		if (type.equalsIgnoreCase("chrome")) {
-			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\chromedriver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\91735\\eclipse-workspace\\Automation_Project_Maven1\\chromedriver.exe");
 			d = new ChromeDriver(); //---> WebDriver not required
 		}
 		else if (type.equalsIgnoreCase("firefox")) {

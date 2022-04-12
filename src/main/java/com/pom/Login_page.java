@@ -26,6 +26,15 @@ public class Login_page{
 	public WebElement getSubmit() {
 		return submit;
 	}
+	
+	@FindBy(xpath="//input[@name='passwd']")
+	private WebElement password;
+	public WebElement getPassword() {
+		return password;
+	}
+	
+	
+	
 }
 
 

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="9" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-12T12:33:07 IST" name="Suite" finished-at="2022-04-12T12:33:07 IST" duration-ms="107">
+    <groups>
+      <group name="B">
+        <method signature="Data_Provider.adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" name="adactin_Runner" class="com.testNG.features_new.Data_Provider"/>
+      </group> <!-- B -->
+      <group name="Z">
+        <method signature="Data_Provider.mohan(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" name="mohan" class="com.testNG.features_new.Data_Provider"/>
+      </group> <!-- Z -->
+    </groups>
+    <test started-at="2022-04-12T12:33:07 IST" name="Test" finished-at="2022-04-12T12:33:07 IST" duration-ms="107">
+      <class name="com.testNG.features_new.Data_Provider">
+        <test-method signature="adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" started-at="2022-04-12T12:33:07 IST" name="adactin_Runner" data-provider="test_data" finished-at="2022-04-12T12:33:07 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runner -->
+        <test-method signature="adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" started-at="2022-04-12T12:33:07 IST" name="adactin_Runner" data-provider="test_data" finished-at="2022-04-12T12:33:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Stark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runner -->
+        <test-method signature="adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" started-at="2022-04-12T12:33:07 IST" name="adactin_Runner" data-provider="test_data" finished-at="2022-04-12T12:33:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Steve]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runner -->
+        <test-method signature="mohan(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" started-at="2022-04-12T12:33:07 IST" name="mohan" data-provider="test_data" finished-at="2022-04-12T12:33:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mohan -->
+        <test-method signature="mohan(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" started-at="2022-04-12T12:33:07 IST" name="mohan" data-provider="test_data" finished-at="2022-04-12T12:33:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Stark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mohan -->
+        <test-method signature="mohan(java.lang.String,int)[pri:0, instance:com.testNG.features_new.Data_Provider@393671df]" started-at="2022-04-12T12:33:07 IST" name="mohan" data-provider="test_data" finished-at="2022-04-12T12:33:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Steve]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mohan -->
+      </class> <!-- com.testNG.features_new.Data_Provider -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
